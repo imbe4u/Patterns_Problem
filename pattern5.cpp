@@ -17,4 +17,5 @@ void pattern(){
 }}
 int main(){
     pattern();
+    
 }
